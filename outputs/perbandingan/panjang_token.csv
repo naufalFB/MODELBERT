@@ -1,0 +1,3 @@
+Model,Median token,Persentil-95,Maksimum,% terpotong
+mbert,50.0,78.0,151.0,0.03
+indobert,38.0,60.0,119.0,0.0

@@ -1,0 +1,6 @@
+﻿*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+checkpoint-*/

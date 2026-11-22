@@ -1,0 +1,8 @@
+kalimat,prediksi,p_anger,p_fear,p_happy,p_love,p_sadness
+aku senang banget hari ini,happy,0.002,0.002,0.99,0.004,0.003
+aku tidak senang dengan pelayanan ini,sadness,0.382,0.008,0.011,0.003,0.595
+kesel banget sama macet tiap pagi,sadness,0.425,0.025,0.005,0.003,0.542
+takut banget besok hasil tesnya keluar,fear,0.002,0.988,0.003,0.005,0.002
+"kangen kamu, cepat pulang ya",sadness,0.005,0.007,0.017,0.349,0.622
+sedih rasanya ditinggal teman dekat,sadness,0.002,0.007,0.005,0.002,0.984
+"senang sih, tapi takut juga kalau gagal",fear,0.001,0.972,0.009,0.003,0.015

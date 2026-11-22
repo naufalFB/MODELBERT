@@ -1,0 +1,4 @@
+Perbandingan,Selisih F1,t terkoreksi,p-value,"Signifikan (p<0,05)"
+IndoBERT vs mBERT,0.1167,10.172,0.0,Ya
+mBERT vs TF-IDF+LogReg,-0.0334,-3.122,0.01228,Ya
+IndoBERT vs TF-IDF+LogReg,0.0833,11.502,0.0,Ya

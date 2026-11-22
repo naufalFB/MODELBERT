@@ -1,0 +1,2 @@
+model,akurasi,precision_macro,recall_macro,f1_macro,f1_anger,f1_fear,f1_happy,f1_love,f1_sadness
+mbert,0.625,0.6488,0.6363,0.6393,0.6698,0.6897,0.6139,0.7445,0.4789
